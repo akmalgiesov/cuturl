@@ -4,7 +4,7 @@
 
 
 - Create database cuturl.
-- Rum php artisan migrate
+- Run php artisan migrate
 
 
 
